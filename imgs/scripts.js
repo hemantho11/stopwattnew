@@ -1,0 +1,1 @@
+No Content: https://wellnessside.vercel.app/imgs/scripts.js
